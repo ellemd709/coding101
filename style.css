@@ -1,0 +1,44 @@
+body { 
+  background-color: #ade6ad;
+
+  
+}
+
+img {
+    width: 150px;
+    border-radius: 10px;
+  
+}
+div {
+    background-color: #61cc8a;
+    text-align: center;
+    padding: 25px;
+    width: 50%;
+    margin-right:auto;
+    margin-left:auto;
+    border-radius: 10px;
+    
+}
+
+#logo {
+  width: 40px;
+  border-radius: 10px;
+  transition: all .5s;
+  
+}
+
+#logo:hover {
+  transform: scale(1.5)
+}
+
+
+#secondDiv{
+  text-align: left;
+  margin: 25px;
+  width: 75%;
+  padding: 25px;
+  margin-right:auto;
+  margin-left:auto;
+  
+  
+}
