@@ -1,22 +1,22 @@
 function sayhello() {
   alert('Hello, Welcome')
 }
-var myname='Lisa';
+let myname='Lisa';
 console.log("My name is:")
 console.log(myname)
 
 
-var one = 1
-var two = 2
-var three = 3
+let one = 1
+let two = 2
+let three = 3
 
 console.log(1+2+3)
 
 //string
 
-var one = "one";
-var two = "two";
-var three = "three";
+let one = "one";
+let two = "two";
+let three = "three";
 
 console.log(one+two+three)
 
