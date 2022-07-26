@@ -34,9 +34,9 @@ console.log('it is not Monday. Have a scoop of ${flavor} ice cream.');
 // slice and splice 
 
 var users = ["Tim", "Tom", "Bob", "Frank"];
-//console.log(users.slice(1, 3));
-users.splice(1, 2, "hello");
-console.log(users);
+console.log(users.slice(1, 3));
+//users.splice(1, 2, "hello");
+//console.log(users);
 
 
 
